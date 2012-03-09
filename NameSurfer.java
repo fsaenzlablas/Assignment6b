@@ -18,10 +18,7 @@ public class NameSurfer extends Program implements NameSurferConstants {
 	 * and initializing the interactors at the top of the window.
 	 */
 	public void init() {
-        def a {
-         llll
-        }
-	    // You fill this in, along with any helper methods //
+  	    // You fill this in, along with any helper methods //
 	}
 
 	/* Method: actionPerformed(e) */
